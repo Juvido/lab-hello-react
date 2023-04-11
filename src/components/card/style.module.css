@@ -1,0 +1,19 @@
+.cardContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img {
+    width: 30%;
+}
+
+.subTitle {
+    font-weight: 700;
+}
+
+.textContent {
+    font-weight: 300;
+    text-align: center;
+}
